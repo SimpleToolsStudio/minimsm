@@ -16,4 +16,4 @@ See the README.md inside each version directory for the full format spec and usa
 
 ---
 
-MSM is developed by **SimpleToolsStudio** (GitHub: [@20260509](https://github.com/20260509)).
+MSM is developed by **SimpleToolsStudio** (GitHub: [@20260509](https://github.com/SimpleToolsStudio)).
